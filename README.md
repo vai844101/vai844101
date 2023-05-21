@@ -1,11 +1,11 @@
 ### Hi there, Vaibhav Kumar👋
+**vai844101/vai844101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h2 align="center">
 I'm a Web Developer 💻, Photographer 📸, and UX/UX Designer 🎨!
 </h2> 
+
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
-
-**vai844101/vai844101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
