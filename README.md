@@ -1,4 +1,9 @@
 ### Hi there, Vaibhav Kumar👋
+<h2 align="center">
+I'm a Web Developer 💻, Photographer 📸, and UX/UX Designer 🎨!
+</h2> 
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
 
 **vai844101/vai844101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### 🤝 Connect with me:
 - [<img src='https://cdn.jsdelivr.net/npm/simple-i... alt='github' height='40'>](https://github.com/vai844101) 
 - (https://www.linkedin.com/in/vaibhav-kumar-65b62a21a/.
 - https://github-readme-stats.vercel.app/api?username=vai844101
