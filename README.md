@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - [<img src='https://cdn.jsdelivr.net/npm/simple-i... alt='github' height='40'>](https://github.com/vai844101) 
+- (https://www.linkedin.com/in/vaibhav-kumar-65b62a21a/.
 - https://github-readme-stats.vercel.app/api?username=vai844101
 
 
