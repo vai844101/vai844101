@@ -2,6 +2,7 @@
 
 
 **vai844101/vai844101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"C:\Users\DELL\Downloads\Blue Yellow Futuristic Virtual Technology Blog Banner.png"
 
 Here are some ideas to get you started:
 
