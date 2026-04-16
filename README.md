@@ -1,5 +1,57 @@
 # 💫 About Me:
-👋 Hi there! I'm Vaibhav Kumar<br>💻 Software Develpment Engineer | 📊 Cloud and AI Engineer | Data Structure and Algorithms | 🚀 Tech Enthusiast 🌐 Software Develpment Enginner @ Smoketrees Digital LLP (Bangalore)<br>👨‍💻 About Me<br>I'm a passionate developer with a strong foundation in full-stack development, AI Technolgies, and cloud technologies. I enjoy building scalable web apps, solving real-world problems, Solving Data Structures and Algorithms Problems on daily basis and continuously learning new tech.<br><br>🎓 B.Tech CSE @ VIT Bhopal University, 2025 Graduated<br><br>💼 Ex-Software Development Intern @ MetaDesign solutions (Gurgaon)<br><br>🛠️ Worked on various Full Stack Projects like Hiring platform with Multiple features...<br><br>🧰 Tech Stack<br>Languages:<br>JavaScript, TypeScript, Python, Java SQL<br><br>Frameworks & Libraries:<br>React.js, Next.js, Node.js, Express.js, Tailwind CSS<br><br>Databases & Cloud:<br>MongoDB MySQL, PostgreSQL AWS<br><br>Tools & Others:<br>Git Excel Power BI ExcelJS Postman Jira DSA<br><br>🏆 Achievements<br>🧠 SIH 2023 Finalist | Price Comparison System for GeM Platform<br>🥇🔥2 Year+ GitHub Streak<br>👨‍💼Vice President - Software Development Club @ VIT Bhopal
+# 👋 Hi, I'm Vaibhav Kumar
+
+💻 Software Development Engineer  
+☁️ Cloud & AI Enthusiast  
+📊 Strong in Data Structures & Algorithms  
+
+---
+
+## 👨‍💻 About Me
+I'm a software developer focused on building scalable, high-performance applications and solving real-world problems.
+
+I have hands-on experience across full-stack development, cloud technologies, and AI-driven solutions. I actively practice Data Structures & Algorithms and enjoy continuously learning and improving my problem-solving skills.
+
+- 🎓 B.Tech CSE, VIT Bhopal University (2025)
+- 💼 Software Development Engineer @ Smoketrees Digital LLP (Bangalore)
+- 💼 Ex-Software Development Intern @ MetaDesign Solutions
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+JavaScript • TypeScript • Python • Java • SQL  
+
+**Frameworks & Libraries**  
+React.js • Next.js • Node.js • Express.js • Tailwind CSS  
+
+**Databases & Cloud**  
+MongoDB • MySQL • PostgreSQL • AWS  
+
+**Tools & Technologies**  
+Git • Postman • Jira • Power BI • Excel • ExcelJS  
+
+---
+
+## 🚀 Projects
+- Built a full-stack hiring platform with multiple features including authentication, dashboards, and scalable APIs  
+- Developed real-world applications focusing on performance, usability, and clean architecture  
+
+---
+
+## 🏆 Achievements
+- 🧠 SIH 2023 Finalist — Price Comparison System for GeM Platform  
+- 🔥 2+ Year GitHub Contribution Streak  
+- 👨‍💼 Vice President — Software Development Club, VIT Bhopal  
+
+---
+
+## 📈 What I Focus On
+- Building scalable backend systems  
+- Writing clean and maintainable code  
+- Solving DSA problems regularly  
+- Exploring AI + Cloud integrations  
 
 
 ## 🌐 Socials:
