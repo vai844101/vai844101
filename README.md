@@ -13,7 +13,7 @@ I have hands-on experience across full-stack development, cloud technologies, an
 
 - 🎓 B.Tech CSE, VIT Bhopal University (2025)
 - 💼 Software Development Engineer @ Smoketrees Digital LLP (Bangalore)
-- 💼 Ex-Software Development Intern @ MetaDesign Solutions
+- 💼 Ex-Software Development Intern @ MetaDesign Solutions (Gurgaon)
 
 ---
 
