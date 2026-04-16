@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Vaibhav Kumar
 
 💻 Software Development Engineer  
